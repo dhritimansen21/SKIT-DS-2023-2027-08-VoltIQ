@@ -118,7 +118,7 @@ voltiq/
 
 ### Installation
 ```bash
-git clone https://github.com/<your-username>/voltiq.git
+git clone https://github.com/dhritimansen21/voltiq.git
 cd voltiq
 pip install -r requirements.txt
 ```
