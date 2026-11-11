@@ -1,2 +1,6 @@
-data set.csv
 *.csv
+.venv/
+__pycache__/
+*.pyc
+data set.csv
+voltiq_dashboard.zip
