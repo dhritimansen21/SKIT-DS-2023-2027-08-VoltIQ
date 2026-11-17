@@ -1,0 +1,6 @@
+Put your trained model files here (for example theft_classifier.pkl, forecast_model.pkl, anomaly_model.pkl).
+
+1. Open ../model_hooks.py and fill in the functions you have a model for (the file explains how).
+2. Optional: create models/model_info.csv to show your real metrics on the Model Info page.
+   Columns: model_id,purpose,algorithm,version,trained_at,mae,rmse,precision,recall,f1,notes
+   (purpose for the theft model must contain the word "Theft", e.g. "Theft classification")
